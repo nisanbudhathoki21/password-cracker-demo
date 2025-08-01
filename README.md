@@ -1,3 +1,5 @@
+![Banner](banner.png)
+
 # 🔐 Password Cracker Demo (MD5)
 
 ![Python](https://img.shields.io/badge/python-3.10+-blue?logo=python&logoColor=white)
